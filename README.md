@@ -18,19 +18,18 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
 *Browse trending news with a clean, modern interface*
 
 ### Category Selection
-![Category View](./screenshots/categories.png)
+
 *Quickly filter news by categories like Sports, Technology, Health, and more*
 
 ### Search Functionality
-![Search Feature](./screenshots/search.png)
+
 *Search for news on any topic with real-time results*
 
 ### Responsive Design
-![Mobile View](./screenshots/mobile.png)
+
 *Fully responsive design that works seamlessly on all devices*
 
 ---
@@ -103,7 +102,7 @@ yarn install
 Open `src/Component/Newsapp.jsx` and replace the API key:
 
 ```javascript
-const API_KEY = "your_api_key_here";
+const API_KEY = "c4d234da9e644f1582758f26c13432a4";
 ```
 
 **⚠️ Security Note:** For production, use environment variables instead:
@@ -251,9 +250,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Harikesh2343)
+
+- Email: harikesh2343@gmail.com
 
 ---
 
