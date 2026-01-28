@@ -270,7 +270,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 If you like this project, please give it a ⭐ on GitHub!
 
-For support, email your.email@example.com or open an issue on GitHub.
+For support, email harikesh2343@gmail.com or open an issue on GitHub.
 
 ---
 
